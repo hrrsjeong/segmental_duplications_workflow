@@ -1,4 +1,4 @@
-# *Segmental duplications workflow
+# *Segmental duplications workflow*
 a snakemake workflow for calling / postprocessing segmental duplications from genome assembly. 
 
 # Running pipelines
